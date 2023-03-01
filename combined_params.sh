@@ -6,7 +6,7 @@ echo "dollar star list: "
 for i in $*;
 do echo "parameter is $i";
 done
-echo "dollar start in quotes list: "
+echo "dollar star in quotes list: "
 for i in "$*"
 do echo "parameter is $i";
 done
