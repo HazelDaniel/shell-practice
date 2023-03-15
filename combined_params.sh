@@ -10,5 +10,5 @@ do echo "parameter is $i";
 done
 echo "dollar star in quotes list: "
 for i in "$*"
-do echo "parameter is $i";
+do echo -n "parameter is $i\n";
 done
