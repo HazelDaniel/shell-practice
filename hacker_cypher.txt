@@ -1,12 +1,15 @@
-using core dump 1.1.0 : ####################################
-getting feedback from google.com's server : ################30%
-accessing database : #################
-reading table `USER_AGENTS` : ############28%
-creating backdoor with pylib-1x3E2.deb after unpacking : #######################
-uploading trojan X using admin access : #######################
-scraping data into csv : ##############
+reading table `USER_AGENTS` :................................############28%
+getting feedback from google.com's server :..................################30%
+accessing database :.........................................#################
+scraping data into csv :.....................................#################
+reading table `ACCESS_CONTROL_ALLOW_ORIGIN` :................###################
+creating backdoor with pylib-1x3E2.deb after unpacking :.....#######################
+uploading trojan X using admin access :......................#######################
+adding to white list :.......................................###################################
+using main dump 1.1.0 :......................................####################################
+overwritting...
 ..
 ...
 .....
 .......
-done.
+done 100%
